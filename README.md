@@ -13,6 +13,10 @@ I'm passionate about a variety of topics, including **Bitcoin**, **Nostr**, **De
 
 If you share any of these interests or would like to connect, feel free to reach out to me! I'm always open to discussing new ideas, collaborating on projects, or simply getting to know like-minded individuals.
 
+You can visit my website: .[CrypticThreadz](https://www.crypticthreadz.com)
+
+You can Join my paid Nostr relay: .[Nostr](nostr.crypticthreadz.com)
+
 You can find me on [Nostr](https://snort.social/p/npub1umdl398c0fv2l5edkq56y06dp89gearxclm46nhu34wrhvdpc2uqahyu6z), or send me an email at ctthreadz@protonmail.com.
 
 Looking forward to connecting with you!
